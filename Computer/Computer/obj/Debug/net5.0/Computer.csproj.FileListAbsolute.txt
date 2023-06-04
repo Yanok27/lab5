@@ -1,0 +1,47 @@
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/Computer.deps.json
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/Computer.runtimeconfig.json
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/Computer.runtimeconfig.dev.json
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/Computer.dll
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/ref/Computer.dll
+/Users/denys/RiderProjects/Computer/Computer/bin/Debug/net5.0/Computer.pdb
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.csproj.AssemblyReference.cache
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.AssemblyInfoInputs.cache
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.AssemblyInfo.cs
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.csproj.CoreCompileInputs.cache
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.dll
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/ref/Computer.dll
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.pdb
+/Users/denys/RiderProjects/Computer/Computer/obj/Debug/net5.0/Computer.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.exe
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.deps.json
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.runtimeconfig.json
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.runtimeconfig.dev.json
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.dll
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\bin\Debug\net5.0\Computer.pdb
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.AssemblyInfo.cs
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.dll
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\refint\Computer.dll
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.pdb
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\Computer.genruntimeconfig.cache
+C:\Users\User\Downloads\Telegram Desktop\Computer\Computer\Computer\obj\Debug\net5.0\ref\Computer.dll
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.exe
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.deps.json
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.runtimeconfig.json
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.runtimeconfig.dev.json
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.dll
+D:\.net\lab5\Computer\Computer\bin\Debug\net5.0\Computer.pdb
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.csproj.AssemblyReference.cache
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.AssemblyInfoInputs.cache
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.AssemblyInfo.cs
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.csproj.CoreCompileInputs.cache
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.dll
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\refint\Computer.dll
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.pdb
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\Computer.genruntimeconfig.cache
+D:\.net\lab5\Computer\Computer\obj\Debug\net5.0\ref\Computer.dll
